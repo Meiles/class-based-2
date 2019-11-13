@@ -9,6 +9,22 @@
 	],
 "creatorBuild": "29156",
 "files": {
+	"/.gitattributes": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/.gitattributes",
+		"oF": 0
+		},
+	"/.gitignore": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/.gitignore",
+		"oF": 0
+		},
 	"/how-to-use.txt": {
 		"cB": 0,
 		"ft": 8192,
@@ -84,6 +100,24 @@
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
+		},
+	"/React-Practice/.gitattributes": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/React-Practice/.gitattributes",
+		"oF": 0
+		},
+	"/src/components/Cockpit/Cockpit-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/src/components/Cockpit/Cockpit-min-min.css",
+		"oF": 0,
+		"oS": 3
 		},
 	"/src/components/Cockpit/Cockpit.css": {
 		"aP": 1,
