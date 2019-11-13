@@ -1,0 +1,30 @@
+html {
+  background-color: bisque; }
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  color: chocolate; }
+
+.Person {
+  width: 60%;
+  margin: auto;
+  margin-top: 30px;
+  border: 1px solid #eee;
+  box-shadow: 0 2px 3px #ccc;
+  padding: 16px 0;
+  text-align: center; }
+
+@media (min-width: 500px) {
+  .Person {
+    width: 450px; } }
+
+.App {
+  text-align: center; }
+
+.red {
+  color: red; }
+
+.bold {
+  font-weight: bold; }
