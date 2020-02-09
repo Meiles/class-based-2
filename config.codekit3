@@ -39,6 +39,17 @@
 		"oAP": "/build/node_modules",
 		"oF": 0
 		},
+	"/node_modules/prop-types/index.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "/node_modules/prop-types/index-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 1
+		},
 	"/node_modules/react-dom/index.js": {
 		"bF": 0,
 		"ft": 64,
@@ -101,14 +112,6 @@
 		"oO": 0,
 		"oS": 1
 		},
-	"/React-Practice/.gitattributes": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/React-Practice/.gitattributes",
-		"oF": 0
-		},
 	"/src/components/Cockpit/Cockpit-min.css": {
 		"aP": 1,
 		"bl": 0,
@@ -150,6 +153,16 @@
 		"oF": 0,
 		"sC": 3,
 		"tS": 1
+		},
+	"/src/components/Persons/Person/Person.module.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/src/components/Persons/Person/Person.module-min.css",
+		"oF": 0,
+		"oS": 3
 		},
 	"/src/components/Persons/Person/Person.module.scss": {
 		"aP": 0,
@@ -197,6 +210,17 @@
 		"sC": 3,
 		"tS": 1
 		},
+	"/src/context/auth-context.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "/src/context/auth-context-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 1
+		},
 	"/src/css/main.css": {
 		"aP": 1,
 		"bl": 0,
@@ -225,6 +249,39 @@
 		"mi": 1,
 		"oA": 0,
 		"oAP": "/src/ErrorBoundary/ErrorBoundary-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 1
+		},
+	"/src/hoc/Aux-min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/src/hoc/Aux-min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 1
+		},
+	"/src/hoc/Aux.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "/src/hoc/Aux-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 1
+		},
+	"/src/hoc/WithClass.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "/src/hoc/WithClass-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 1
